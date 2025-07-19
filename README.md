@@ -157,7 +157,7 @@ jupyter notebook "Q&A pair generation.ipynb"
 如有问题或建议，请通过以下方式联系：
 
 - 项目Issues: [GitHub Issues](https://github.com/your-username/LLMs-BiocharPredict/issues)
-- 邮箱: your-email@example.com
+- 邮箱: pjf1028@163.com
 
 ## 致谢
 
