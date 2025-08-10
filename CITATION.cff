@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+title: "LLMs-BiocharPredict: Biochar Property Prediction with ML and LLMs"
+message: "If you use this software, please cite it as below."
+type: software
+version: 1.0.0
+date-released: 2025-01-01
+authors:
+  - family-names: SinceraXY
+    given-names: SinceraXY
+    orcid: https://orcid.org/0000-0000-0000-0000
+repository-code: https://github.com/SinceraXY/LLMs-BiocharPredict
+keywords:
+  - biochar
+  - machine learning
+  - large language models
+  - materials informatics
+license: MIT 
